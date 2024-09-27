@@ -4,7 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/NavBar";
 
 export const metadata: Metadata = {
-  title: "headlines.wtf",
+  title: "headlines",
   description: "ai-powered headline generator",
 };
 

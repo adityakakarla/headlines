@@ -8,7 +8,7 @@ export default async function Navbar() {
 
     return (
         <div className="w-full h-16 border-b border-black flex flex-row items-center justify-between px-8">
-            <Link href="/"><b>headlines.wtf</b></Link>
+            <Link href="/"><b>headlines</b></Link>
             <div className="flex flex-row space-x-4 items-center">
                 {user ? (
                     <>
